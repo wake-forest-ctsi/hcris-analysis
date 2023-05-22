@@ -1,0 +1,5 @@
+wheel
+ipykernel
+requests
+pandas
+openpyxl

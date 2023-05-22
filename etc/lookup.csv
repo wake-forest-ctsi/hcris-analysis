@@ -1,0 +1,57 @@
+Variable Name,Cost Report Worksheet Element,WKSHT_CD,LINE_NUM,CLMN_NUM
+Provider CCN,S2-Part1-Line-3-Column-2,S200001,00300,00200
+Hospital Name,S2-Part1-Line-3-Column-1,S200001,00300,00100
+Street Address,S2-Part1-Line-1-Column-1,S200001,00100,00100
+City,S2-Part1-Line-2-Column-1,S200001,00200,00100
+State Code,S2-Part1-Line-2-Column-2,S200001,00200,00200
+Zip Code,S2-Part1-Line-2-Column-3,S200001,00200,00300
+County,S2-Part1-Line-2-Column-4,S200001,00200,00400
+Medicare CBSA Number,S2-Part1-Line-3-Column-3,S200001,00300,00300
+Rural versus Urban,S2-Part1-Line-26-Column-1,S200001,02600,00100
+Provider Type,S2-Part1-Line-3-Column-4,S200001,00300,00400
+Type of Control,S2-Part1-Line  21-Column-1,S200001,02100,00100
+Fiscal Year Begin Date,S2-Part1-Line-20-Column-1,S200001,02000,00100
+Fiscal Year End Date,S2-Part1-Line-20-Column-2,S200001,02000,00200
+FTE-Employees  on Payroll,S3-Part1-Line-14-Column-10,S300001,01400,01000
+Total Days Title XIX,S3-Part1-Line-14-Column-7,S300001,01400,00700
+Total Days (V + XVIII + XIX + Unknown),S3-Part1-Line-14-Column-8,S300001,01400,00800
+Number of Beds,S3-Part1-Line-14-Column-2,S300001,01400,00200
+Total Bed Days Available,S3-Part1-Line-14-Column-3,S300001,01400,00300
+Total Discharges Title XIX,S3-Part1-Line-14-Column-14,S300001,01400,01400
+Total Discharges (V + XVIII + XIX + Unknown),S3-Part1-Line-14-Column-15,S300001,01400,01500
+"Hospital Total Days Title XIX for
+Adults & Peds",S3-Part1-Line-1-Column-7,S300001,00100,00700
+Hospital Total Days (V + XVIII + XIX + Unknown) for Adults & Peds,S3-Part1-Line-1-Column-8,S300001,00100,00800
+"Hospital Total Discharges Title XIX for
+Adults & Peds",S3-Part1-Line-1-Column-14,S300001,00100,01400
+Hospital Total Discharges (V + XVIII + XIX + Unknown) for Adult,S3-Part1-Line-1-Column-15,S300001,00100,01500
+Cost of Charity Care,S10-Line-23-Column-1,S100000,02300,00100
+Total Bad Debt Expense,S10-Line26-Column-1,S100000,02600,00100
+Cost of Uncompensated  Care,S10-Line30-Column-1,S100000,03000,00100
+"Total Unreimbursed  and
+Uncompensated  Care",S10-Line31-Column-1,S100000,03100,00100
+Total Salaries From Worksheet A,A-Line-200-Column-1,A000000,20000,00100
+Total Costs,C-Part1-Line-200-Column-3,C000001,20000,00300
+Inpatient Total Charges,C-Part1-Line-200-Column-6,C000001,20000,00600
+Outpatient Total Charges,C-Part1-Line-200-Column-7,C000001,20000,00700
+"Combined Outpatient + Inpatient
+Total Charges",C-Part1-Line-200-Column-8,C000001,20000,00800
+Wage-related  Costs (core),S3-Part-2-Line-17-Column-4,S300002,01700,00400
+Wage-related  costs (RHC/FQHC),S3-Part-2-Line-24-Column-4,S300002,02400,00400
+Total Salaries (adjusted),S3-Part2-Line-1-Column-4,S300002,00100,00400
+Contract Labor,S3-Part2-Line-11-Column-4,S300002,01100,00400
+Disproportionate Share Adjustment,E-PartA-Line-34-Column-1,E00A18A,03400,00100
+Allowable DSH Percentage,E-Part1-Line-33-Column-1,E00A18A,03300,00100
+Inpatient Revenue,G2-Part1-Line-28-Column-1,G200000,02800,00100
+Outpatient Revenue,G2-Part1-Line-28-Column-2,G200000,02800,00200
+Gross Revenue,G3-Line-1-Column-1,G300000,00100,00100
+"Less Contractual Allowance and
+Discounts on Patients' Accounts",G3-Line-2-Column-1,G300000,00200,00100
+Net Patient Revenue,G3-Line-3-Column-1,G300000,00300,00100
+Less Total Operating Expense,G3-Line-4-Column-1,G300000,00400,00100
+Net Income from Service to Patients,G3-Line-5-Column-1,G300000,00500,00100
+Total Other Income,G3-Line-25-Column-1,G300000,02500,00100
+Total Income,G3-Line-26-Column-1,G300000,02600,00100
+Total Other Expenses,G3-Line-28-Column-1,G300000,02800,00100
+Net Income,G3-Line-29-Column-1,G300000,02900,00100
+Cost To Charge Ratio,S10-Line-1-Column-1,S100000,00100,00100
